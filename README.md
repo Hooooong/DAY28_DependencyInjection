@@ -46,7 +46,7 @@ ____________________________________________________
 
 - ButterKnife 란?
 
-  > View, Resource 에 대한 의존성 주입을 Annotation으로 편리하게 지원하는 Library. 또한 Event Binding Annotation 도 지원한다.
+  > View, Resource 에 대한 의존성 주입을 Annotation으로 편리하게 지원하는 Library. Event Binding Annotation 도 지원한다.
 
 - ButterKnife 사용법
 
